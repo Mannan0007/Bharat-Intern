@@ -1,0 +1,56 @@
+.body{
+    background-color:lightcyan;
+    background-image: url(blue-watercolor-mountains-background_23-2149250282.jpg);
+    background-size: cover;
+
+
+}
+.heading{
+    padding: 20px;
+    margin: 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: greenyellow;
+    height: 140px;
+
+}
+
+.converter{
+    padding: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.converter2{
+    padding: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.converter3{
+    padding: 30px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.infobox{
+    background-color: lightgreen;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    position:relative;
+    word-spacing:10px;
+    left: 1040px;
+    top: 1000px;
+    padding: 30px;
+    margin: 40px;
+    width: 750px;
+    height: 300px;
+
+}
+
+
+
